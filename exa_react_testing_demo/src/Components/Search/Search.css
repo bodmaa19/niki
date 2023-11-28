@@ -1,0 +1,9 @@
+.counter-button {
+    background: none;
+    font-size: calc(10px + 2vmin);
+    color: #61dafb;
+    text-decoration: underline;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
